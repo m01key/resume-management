@@ -1,0 +1,22 @@
+html, body {
+	background-color: #fcfcee;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	max-width: 300px;
+}
+
+.form input {
+	margin-bottom: 15px;
+	border: solid #a4a44d 1px;
+	padding: 10px;
+}
+
+.form button {
+	background-color: #833E65;
+	color: #fff;
+	border: none;
+	padding: 10px;
+}
